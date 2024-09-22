@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('fondo_atractivo.jpg.jpg'); /* Cambia esta imagen a tu fondo preferido */
+    background-size: cover;
+    background-position: center;
+    color: rgb(0, 0, 0);
+}
+
+.container {
+    text-align: center;
+    padding: 150px;
+    background-color: rgba(245, 136, 34, 0.6); /* Fondo oscuro transparente para el texto */
+    border-radius: 15px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+.flor {
+    width: 230px; /* Cambia el tamaño de la flor si es necesario */
+    margin-top: 20px;
+}
